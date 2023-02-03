@@ -1,0 +1,20 @@
+@charset "UTF-8"
+
+body{
+    background-color: rgb(181, 206, 206);
+    color:black;
+    font: 150;
+}
+p {
+   
+    color:black;
+    font: arial ;
+}
+h1{
+    font-size: 40PX;
+    color: rgb(70, 64, 64);
+}
+
+img{
+    text-align: center;
+}

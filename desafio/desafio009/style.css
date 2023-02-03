@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+h1{
+    color: red;
+    font-weight: normal;
+   text-align: right;
+   }
+   p{
+       color: white;
+       text-align: left;
+       text-align: justify;
+       font-size: 18px;
+       
+   }
+   h2{
+       text-align: left;
+       color: white;
+       font-weight: normal;
+       font-size: 30px;
+      
+   }
+   button{
+       font-weight: normal;
+       font-size: 20px;
+       color: black;
+       position: absolute;
+       left: 500px;
+       
+     bottom: 100px;
+       
+   }
+   button:hover{
+       color:gray;    
+       
+   }
+   a {
+       color: black;
+       text-decoration: dashed;
+   }
+   img{
+       width: 150px;
+   }
+   .img1{
+     width: 190px;
+   
+   }
+   .b1{
+       font-weight: normal;
+       font-size: 20px;
+       color: black;
+       position: absolute;
+       left: 650px;
+     bottom: 100px;
+     
+   }
+   .b1:hover{
+       color: gray;
+   }
+ a:hover{
+    transition-duration: 0.5s;
+ }
+
